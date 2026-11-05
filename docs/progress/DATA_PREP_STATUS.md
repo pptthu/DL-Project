@@ -1,0 +1,50 @@
+# DATA_PREP_STATUS.md — Tiến độ: Chuẩn bị dữ liệu & split
+
+- **Motivation/Background**: Theo dõi nhanh phase Chuẩn bị dữ liệu & split mà không cần đọc lại toàn bộ đặc tả.
+- **Purpose**: Ghi việc đã xong kèm bằng chứng, blocker, quyết định và bước tiếp theo.
+- **Overview Pipeline**: Log → blocker → quyết định → bước tiếp theo.
+- **Detailed Plan**: Header; Checklist; Log; Blockers; Decisions; Next step; Links.
+- **References**: [../phases/DATA_PREP.md](../phases/DATA_PREP.md), [../OVERVIEW.md](../OVERVIEW.md).
+- **Created**: 2026-11-05T11:21:04+07:00
+- **Last Updated**: 2026-11-05T11:21:04+07:00
+
+---
+
+## Header
+
+- **Title:** Chuẩn bị dữ liệu & split
+- **Date created:** 2026-11-05
+- **Last updated:** 2026-11-05
+- **Status:** To Do
+- **Owner:** TV1
+- **Phase doc:** [../phases/DATA_PREP.md](../phases/DATA_PREP.md)
+
+## Checklist
+
+Chỉ đánh dấu `[x]` khi có bằng chứng (lệnh, đường dẫn output, commit).
+
+- [ ] Đọc xong đặc tả phase
+- [ ] Code chạy được trên tập con
+- [ ] Verification gates trong phase doc đều pass
+- [ ] Cập nhật tài liệu liên quan (DATA.md §3–§4)
+
+## Log
+
+- 2026-11-05: Tạo file.
+
+## Blockers
+
+- Chưa có.
+
+## Decisions
+
+- Chưa có.
+
+## Next step
+
+- Bắt đầu bước 1 trong [../phases/DATA_PREP.md](../phases/DATA_PREP.md).
+
+## Links
+
+- Phase doc: [../phases/DATA_PREP.md](../phases/DATA_PREP.md)
+- Experiments: [../experiments/README.md](../experiments/README.md)
