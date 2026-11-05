@@ -1,0 +1,11 @@
+torch
+numpy
+pandas
+scikit-learn
+matplotlib
+gradio
+pyyaml
+pytest
+datasets
+# Chỉ cần khi làm mở rộng E3 (DistilBERT):
+# transformers
